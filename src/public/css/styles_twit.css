@@ -1,0 +1,9 @@
+body {
+	background: url(../images/bg.png) repeat-x rgb(192, 222, 237);
+}
+
+
+.container {
+	margin: 80px auto;
+	max-width: 410px;
+}
